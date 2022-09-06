@@ -1,4 +1,14 @@
 body {
     font-family: 'Poppins', sans-serif;
-    color: orange;
+    color: burlywood;
+}
+
+h1 {
+    font-size: 1500px;
+    color: rgb(255, 0, 149);
+}
+
+p {
+    font-size: 15px;
+    color: rgb(254, 255, 205);
 }
